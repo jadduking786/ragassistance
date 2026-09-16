@@ -1,0 +1,8 @@
+```text
+streamlit==1.49.1
+groq==0.31.0
+pypdf==6.0.0
+sentence-transformers==5.1.0
+faiss-cpu==1.12.0
+numpy==2.1.3
+```
